@@ -17,7 +17,7 @@ around the circumfrance of the filament (offset as a trinagle), and averaging th
 precision of up to 6 digits beyond the decimal, which results in a measurement as low as 0.000001 MM.
 
 This measurement is achieved by amplifying the minute differences by way of two long 
-compound levers with small magnets attached at each end, and analog hall effect sensors to
+compound levers with small magnets attached at their ends, and analog hall effect sensors to
 measure gauss intensity. The length of the levers dictates the precision (longer = more precise),
 and doubling the levers at separate angles ensures accuracy by negating the oval circumfrance
 which is common with filament.
