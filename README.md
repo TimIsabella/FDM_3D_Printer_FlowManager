@@ -13,8 +13,8 @@ consitent layers which means better looking and performing prints.
 ## How?
 By measuring the filament diameter as it is fed, an exact flow rate can be calculated to ensure
 a consistent flow. Flow Manager measures this filament diameter by three points evenly offset 
-around the circumfrance (offset as a trinagle), and averaging those points with a precision of 
-up to 6 digits beyond the decimal, which results in a measurement as low as 0.000001 MM.
+around the circumfrance of the filament (offset as a trinagle), and averaging those points with a 
+precision of up to 6 digits beyond the decimal, which results in a measurement as low as 0.000001 MM.
 
 This measurement is achieved by amplifying the minute differences by way of two long 
 compound levers with small magnets attached at each end, and analog hall effect sensors to
