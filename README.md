@@ -8,7 +8,7 @@ Possibly the biggest issue in FDM 3D printing is flow control, and the reasons f
 Any one of these can cause bad prints or failed prints, which is costly in material and time.
 
 Flow Manager is an attempt to control all three of these critical parameters, and in addition will yeild 
-consitent layers which means better looking and performing prints.
+consitent layers which means better looking and better performing prints.
 
 ## How?
 By measuring the filament diameter as it is fed, an exact flow rate can be calculated to ensure
