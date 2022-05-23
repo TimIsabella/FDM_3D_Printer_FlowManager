@@ -26,6 +26,9 @@ which is common with filament.
 In addition to diameter measurement, a digital encoder wheel can be placed as the third point of
 contact separate from the lever wheels to precicely measure flow, including retracts, priming, and run-out.
 
+This measurement is then sent by serial to the ESP8266 module that contains a small webserver that wirelessly
+transmits g-code commands to any WiFi enabled printer to continuously adjust the flow rate live.
+
 ## Future Work?
 Production for this project stopped in early 2020. Although the diameter measurement function
 performed far better than I ever anticipated, I ran into difficulty with proprietary communication
