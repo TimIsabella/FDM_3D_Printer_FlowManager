@@ -28,7 +28,9 @@ contact separate from the lever wheels to precicely measure flow, including retr
 
 ## Future Work?
 Production for this project stopped in early 2020. Although the diameter measurement function
-performed far better than I ever anticipated, I ran into the issue 
+performed far better than I ever anticipated, I ran into difficulty with proprietary communication
+methods for different printer manufacturers, therfore this project would probably be best suited on a
+Raspberry PI board and connected to the OctoPrint platform.
 
 ## Parts needed
 - Printed model (see repo)
