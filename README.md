@@ -47,7 +47,7 @@ Raspberry PI board and connected to the OctoPrint platform.
 - 1x ESP8266 Module. You will also need a flash tool and flash module to proram the ESP8266 (there is lots of documentaion online). CAUTION: the ESP8266 module is 3.6v, so the voltage must be managed from the 5v off of the Arduino Nano board.
 - Assorted resistors and wires set
 
-- OPTIONAL: KY-040 Rotary Encoder Module (untested). This is what I was goig to use to measure the flow rate,
+- OPTIONAL: KY-040 Rotary Encoder Module (untested). This is what I was going to use to measure the flow rate,
 although it was never implimented.
 
 ![FlowManager1](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager1.jpg)
