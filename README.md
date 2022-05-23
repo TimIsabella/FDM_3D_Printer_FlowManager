@@ -48,3 +48,4 @@ although it was never implimented.
 ![FlowManager1](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager1.jpg)
 ![FlowManager2](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager2.jpg)
 ![FlowManager3](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager3.jpg)
+![Wiring](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Arduino%20Nano%20to%20ESP8266%20wiring.jpg)
