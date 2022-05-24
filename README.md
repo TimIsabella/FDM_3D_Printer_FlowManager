@@ -25,7 +25,8 @@ opposing angles ensures accuracy by simultaneously measuring at two separate poi
 oval circumference shape which is common with filament.
 
 In addition to diameter measurement, a digital encoder wheel can be placed as a third point of
-contact, separate from the lever wheels to precisely measure flow, including retracts, priming, skipping, and run-out.
+contact, separate from the lever wheels to precisely measure overall filament movement, including retracts,
+priming, skipping, jamming, and run-out.
 
 This measurement is then sent by serial to the ESP8266 module that contains a small webserver that wirelessly
 transmits g-code commands to any WiFi enabled 3D printer to continuously adjust the flow rate live.
