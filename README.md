@@ -20,18 +20,19 @@ as low as 0.000001mm, and a filament diameter as small as 1mm.
 This measurement is achieved by amplifying the minute movements by way of dual single levers set with
 high fulcrum points, and small magnets inlaid at their ends. These magnets are positioned over
 highly sensitive linear hall effect sensors which measure distance by magnetic Gauss intensity. 
-The length of the levers dictates the precision (longer = more precise), and canting the lever wheels at 
-opposing angles ensures accuracy by negating the oval circumference shape which is common with filament.
+The length of the levers dictate the precision (longer = more precise), while canting the lever wheels at 
+opposing angles ensures accuracy by simultaneously measuring at two separate points, which also negates the 
+oval circumference shape which is common with filament.
 
 In addition to diameter measurement, a digital encoder wheel can be placed as a third point of
-contact separate from the lever wheels to precisely measure flow, including retracts, priming, skipping, and run-out.
+contact, separate from the lever wheels to precisely measure flow, including retracts, priming, skipping, and run-out.
 
 This measurement is then sent by serial to the ESP8266 module that contains a small webserver that wirelessly
-transmits g-code commands to any WiFi enabled printer to continuously adjust the flow rate live.
+transmits g-code commands to any WiFi enabled 3D printer to continuously adjust the flow rate live.
 
 Theoretically, with the precise inclusion of the encoder combined with diameter measurements, the exact length 
-to the nozzle tip can be offset with near perfect extrusion precision, making literally any FDM printer capable of
-detailed prints previously unheard of while also eliminating failures.
+to the nozzle tip can be offset with near perfect extrusion precision, making literally any FDM 3D printer
+capable of detailed prints previously unheard of while also eliminating failures.
 
 ## Future Work?
 Production for this project stopped in early 2020. Although the diameter measurement function
