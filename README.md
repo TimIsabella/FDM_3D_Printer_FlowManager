@@ -44,7 +44,7 @@ Moreover, it may be possible to source a linear hall effect sensor that runs on 
 directly to the two I/O ports of the ESP8266, and the board flashed with all code necessary using MicroPython,
 which would eliminate the need for the Nano board alltogether and vastly simplify the entire unit.
 
-## Parts needed
+## Parts List
 - Printed model (see repo .STL files, or .MQO for Metasequoia)
 - Arduino Nano (5v)
 - 2x 11mm X 7mm X 3mm ball bearings
