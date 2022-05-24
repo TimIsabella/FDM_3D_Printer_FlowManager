@@ -53,7 +53,7 @@ which would eliminate the need for the Nano board alltogether and vastly simplif
 - 2x 0.5mm X 3mm X 10mm compression springs
 - 2x 4mm X 2mm round magnets
 - 2x A1302 Continuous-Time Ratiometric Linear Hall-Effect Sensors (5v)
-- 1x ESP8266 Module. You will also need a flash tool and flash module to program the ESP8266 (there is lots of documentation online). CAUTION: the ESP8266 module is 3.6v, so the voltage MUST be managed from the 5v off of the Arduino Nano board, or you will destroy the ESP8266.
+- 1x ESP8266 Module. You will also need a flash tool and flash module to program the ESP8266 (there is lots of documentation online). CAUTION: the ESP8266 module is 3.6v, so do not connect to 5v from the the Arduino Nano board, or you will destroy the ESP8266.
 - Assorted resistors and wires set
 
 - OPTIONAL: KY-040 Rotary Encoder Module (untested). This is what I was going to use to measure the flow rate,
