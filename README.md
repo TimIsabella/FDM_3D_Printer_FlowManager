@@ -57,7 +57,7 @@ which would eliminate the need for the Nano board alltogether and vastly simplif
 - Assorted resistors and wires set
 - 1x ESP8266 Module. You will also need a flash tool and flash module to program the ESP8266 (there is lots of documentation online). CAUTION: the ESP8266 module is 3.6v max, so do not connect to 5v from the the Arduino Nano board, or you will destroy the ESP8266. The Arduino nano supplies 3.3v, which works fine.
 
-- OPTIONAL: KY-040 Rotary Encoder Module (untested). This is what I was going to use to measure the flow rate,
+- OPTIONAL: KY-040 Rotary Encoder Module (untested). This is what I was going to use to measure the filament movement,
 although it was never implemented. Essentially this encoder would be attached to a wheel that rotates with the
 movement of the filament, and calculated along with measurement.
 
