@@ -19,9 +19,9 @@ as low as 0.000001mm, and a filament diameter as small as 1mm.
 
 This measurement is achieved by amplifying the minute differences by way of two long 
 compound levers with small magnets attached at their ends, and analog hall effect sensors to
-measure gauss intensity. The length of the levers dictates the precision (longer = more precise),
+measure magnetic gauss intensity. The length of the levers dictates the precision (longer = more precise),
 and doubling the levers at separate angles ensures accuracy by negating the oval circumference
-which is common with filament.
+shape which is common with filament.
 
 In addition to diameter measurement, a digital encoder wheel can be placed as the third point of
 contact separate from the lever wheels to precisely measure flow, including retracts, priming, and run-out.
@@ -31,7 +31,7 @@ transmits g-code commands to any WiFi enabled printer to continuously adjust the
 
 ## Future Work?
 Production for this project stopped in early 2020. Although the diameter measurement function
-performed far better than I ever anticipated, I ran into difficulty with proprietary communication
+performed far better than I ever anticipated, however I ran into difficulty with proprietary communication
 methods for different printer manufacturers, therefore this project would probably be best suited on a
 Raspberry PI board and connected to the OctoPrint platform.
 
