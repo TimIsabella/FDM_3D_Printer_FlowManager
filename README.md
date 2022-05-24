@@ -19,8 +19,8 @@ as low as 0.000001mm, and a filament diameter as small as 1mm.
 
 This measurement is achieved by amplifying the minute movements by way of dual single levers set with
 high fulcrum points, and small magnets inlaid at their ends. These magnets are positioned over
-highly sensitive analog hall effect sensors which measure distance by magnetic Gauss intensity. 
-The length of the levers dictates the precision (longer = more precise), and canting the levers at 
+highly sensitive linear hall effect sensors which measure distance by magnetic Gauss intensity. 
+The length of the levers dictates the precision (longer = more precise), and canting the lever wheels at 
 opposing angles ensures accuracy by negating the oval circumference shape which is common with filament.
 
 In addition to diameter measurement, a digital encoder wheel can be placed as a third point of
@@ -39,7 +39,7 @@ performed far better than I ever anticipated, I ran into difficulty with proprie
 methods for different printer manufacturers, therefore this project would probably be best suited on a
 Raspberry PI board and connected to the OctoPrint platform.
 
-Moreover, it may be possible to source an analog hall effect sensor that runs on 3.6v which can be connected
+Moreover, it may be possible to source a linear hall effect sensor that runs on 3.6v which can be connected
 directly to the two I/O ports of the ESP8266, and the board flashed with all code necessary using MicroPython,
 which would eliminate the need for the Nano board alltogether and vastly simplify the entire unit.
 
