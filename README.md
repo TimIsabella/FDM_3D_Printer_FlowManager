@@ -45,7 +45,7 @@ directly to the two I/O ports of the ESP8266, and the board flashed with all cod
 which would eliminate the need for the Nano board alltogether and vastly simplify the entire unit.
 
 ## Parts List
-- Printed model (see repo .STL files, or .MQO for Metasequoia), 0.4mm nozzle at a minimum, body is best printed upright.
+- Printed model (see repo .STL files, or .MQO for Metasequoia), 0.4mm nozzle at a minimum, shell is best printed upright.
 - Arduino Nano (5v)
 - 2x 11mm X 7mm X 3mm ball bearings
 - 2x 8mm X 14mm X 4mm ball bearings
