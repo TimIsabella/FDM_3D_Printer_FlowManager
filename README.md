@@ -40,7 +40,7 @@ methods for different printer manufacturers, therefore this project would probab
 Raspberry PI board and connected to the OctoPrint platform.
 
 ## Parts needed
-- Printed model (see repo)
+- Printed model (see repo .STL files, or .MQO for Metasequoia)
 - Arduino Nano (5v)
 - 2x 11mm X 7mm X 3mm ball bearings
 - 2x 8mm X 14mm X 4mm ball bearings
