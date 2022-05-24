@@ -29,6 +29,10 @@ contact separate from the lever wheels to precisely measure flow, including retr
 This measurement is then sent by serial to the ESP8266 module that contains a small webserver that wirelessly
 transmits g-code commands to any WiFi enabled printer to continuously adjust the flow rate live.
 
+Theoretically, with the precise inclusion of the encoder combined with diameter measurements, the exact length 
+to the nozzle tip can be offset with near perfect extrusion precision, making literally any FDM printer capable of
+detailed prints previously unheard of while also eliminating failures.
+
 ## Future Work?
 Production for this project stopped in early 2020. Although the diameter measurement function
 performed far better than I ever anticipated, however I ran into difficulty with proprietary communication
