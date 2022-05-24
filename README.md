@@ -65,7 +65,8 @@ movement of the filament, and calculated along with measurement.
 ![FlowManager3](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager3.jpg)
 ![Wiring](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Arduino%20Nano%20to%20ESP8266%20wiring.jpg)
 
-Screenshots from Version 11 (see .MQO file)
+
+#Screenshots from Version 11 (see .MQO file)
 ![FlowManager3](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Version%2011-1.png)
 ![FlowManager3](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Version%2011-2.png)
 ![FlowManager3](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Version%2011-3.png)
