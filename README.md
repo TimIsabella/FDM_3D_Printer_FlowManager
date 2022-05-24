@@ -17,14 +17,14 @@ around the circumference of the filament (offset as a triangle), and averaging t
 precision of up to 6 digits beyond the decimal, which results in a measurement sensitivity 
 as low as 0.000001mm, and a filament diameter as small as 1mm.
 
-This measurement is achieved by amplifying the minute differences by way of two long 
-compound levers with small magnets attached at their ends, and analog hall effect sensors to
-measure magnetic gauss intensity. The length of the levers dictates the precision (longer = more precise),
-and doubling the levers at separate angles ensures accuracy by negating the oval circumference
-shape which is common with filament.
+This measurement is achieved by amplifying the minute movements by way of dual single levers set with
+high fulcrum points, and small magnets inlaid at their ends. These magnets are positioned over
+highly sensitive analog hall effect sensors which measure distance by magnetic gauss intensity. 
+The length of the levers dictates the precision (longer = more precise), and canting the levers at 
+opposing angles ensures accuracy by negating the oval circumference shape which is common with filament.
 
-In addition to diameter measurement, a digital encoder wheel can be placed as the third point of
-contact separate from the lever wheels to precisely measure flow, including retracts, priming, and run-out.
+In addition to diameter measurement, a digital encoder wheel can be placed as a third point of
+contact separate from the lever wheels to precisely measure flow, including retracts, priming, skipping, and run-out.
 
 This measurement is then sent by serial to the ESP8266 module that contains a small webserver that wirelessly
 transmits g-code commands to any WiFi enabled printer to continuously adjust the flow rate live.
