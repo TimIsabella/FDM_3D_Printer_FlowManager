@@ -29,7 +29,7 @@ contact separate from the lever wheels, to precisely measure overall filament mo
 priming, skipping, jamming, and run-out.
 
 This measurement is then sent by serial to the ESP8266 module that contains a small webserver that wirelessly
-transmits g-code commands to any WiFi enabled 3D printer, continuously adjusting the flow rate live.
+transmits g-code commands to any WiFi enabled 3D printer, continuously adjusting the flow rate live. 
 
 Theoretically, with the precise inclusion of the encoder wheel combined with diameter measurements, the exact
 length to the nozzle tip can be offset with near perfect extrusion precision, making literally any FDM 3D printer
