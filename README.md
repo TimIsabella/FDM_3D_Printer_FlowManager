@@ -46,7 +46,7 @@ directly to the two I/O ports of the ESP8266, and the board flashed with all cod
 which would eliminate the need for the Nano board alltogether and vastly simplify the entire unit.
 
 There are also many other boards in the ESP family with more functionality, more I/O pins, and possibly
-that run at 5v, therefore the IC that can be used in this project is vastly interchangeable.
+that run at 5v, therefore the IC that can be used in this project completely interchangeable.
 
 ## Parts List
 - Printed model (see repo .STL files, or .MQO for Metasequoia), 0.4mm nozzle at a minimum, shell is best printed upright.
