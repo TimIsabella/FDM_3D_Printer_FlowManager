@@ -36,7 +36,7 @@ length to the nozzle tip can be offset with near perfect extrusion precision, ma
 capable of detailed prints previously unheard of while also eliminating failures.
 
 ## Future Work?
-Production for this project stopped in early 2020. Although the diameter measurement function
+Development for this project stopped in early 2020. Although the diameter measurement function
 performed far better than I ever anticipated, I ran into difficulty with proprietary communication
 methods for different printer manufacturers, therefore this project would probably be best suited on a
 Raspberry PI board and connected to the OctoPrint platform.
