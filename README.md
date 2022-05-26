@@ -70,7 +70,7 @@ movement of the filament, and calculated along with measurement.
 ![Wiring](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/Arduino%20Nano%20to%20ESP8266%20wiring.jpg)
 
 ## Screenshots from Version 11 (see .MQO file for Metasequoia)
-- [Download Metasequoia] (https://www.metaseq.net/en)
+- [Download Metasequoia](https://www.metaseq.net/en)
 
 ![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/Version%2011-1.png)
 ![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/Version%2011-2.png)
