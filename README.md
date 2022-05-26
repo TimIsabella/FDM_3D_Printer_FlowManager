@@ -41,7 +41,7 @@ performed far better than I ever anticipated, I ran into difficulty with proprie
 methods for different printer manufacturers, therefore this project would probably be best suited on a
 Raspberry PI board and connected to the OctoPrint platform.
 
-Moreover, it may be possible to source a linear hall effect sensor that runs on 3.6v which can be connected
+Moreover, it may be possible to source a linear hall effect sensor that runs on 3v which can be connected
 directly to the two I/O ports of the ESP8266, and the board flashed with all code necessary using MicroPython,
 which would eliminate the need for the Nano board alltogether and vastly simplify the entire unit.
 
