@@ -64,12 +64,12 @@ that run at 5v, therefore the IC that can be used in this project is completely 
 although it was never implemented. Essentially this encoder would be attached to a wheel that rotates with the
 movement of the filament, and calculated along with measurement.
 
-![FlowManager1](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager1.jpg)
-![FlowManager2](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager2.jpg)
-![FlowManager3](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/FlowManager3.jpg)
-![Wiring](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Arduino%20Nano%20to%20ESP8266%20wiring.jpg)
+![FlowManager1](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/FlowManager1.jpg)
+![FlowManager2](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/FlowManager2.jpg)
+![FlowManager3](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/FlowManager3.jpg)
+![Wiring](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/Arduino%20Nano%20to%20ESP8266%20wiring.jpg)
 
 ## Screenshots from Version 11 (see .MQO file)
-![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Version%2011-1.png)
-![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Version%2011-2.png)
-![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Version%2011-3.png)
+![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/Version%2011-1.png)
+![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/Version%2011-2.png)
+![FlowManager11](https://github.com/TimIsabella/3D_Printer_Flow_Manager/blob/main/Images/Version%2011-3.png)
