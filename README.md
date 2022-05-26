@@ -45,6 +45,9 @@ Moreover, it may be possible to source a linear hall effect sensor that runs on 
 directly to the two I/O ports of the ESP8266, and the board flashed with all code necessary using MicroPython,
 which would eliminate the need for the Nano board alltogether and vastly simplify the entire unit.
 
+There are also many other boards in the ESP family with more functionality, more I/O pins, and possibly
+that run at 5v.
+
 ## Parts List
 - Printed model (see repo .STL files, or .MQO for Metasequoia), 0.4mm nozzle at a minimum, shell is best printed upright.
 - Arduino Nano (5v)
