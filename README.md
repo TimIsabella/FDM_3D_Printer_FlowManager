@@ -35,11 +35,12 @@ Theoretically, with the precise inclusion of the encoder wheel combined with dia
 length to the nozzle tip can be offset with near perfect extrusion precision, making literally any FDM 3D printer
 capable of detailed prints previously unheard of while also eliminating failures.
 
-## Future Work?
+## Current Development
 Development for this project stopped in early 2020. Although the diameter measurement function
 performed far better than I ever anticipated, I ran into difficulty with proprietary communication
 methods for different printer manufacturers, therefore this project would probably be best suited on a
-Raspberry PI board and connected to the OctoPrint platform.
+Raspberry PI board and connected to the OctoPrint platform, although that would limit its use to
+higher end printers.
 
 Moreover, it may be possible to source a linear hall effect sensor that runs on 3v which can be connected
 directly to the two I/O ports of the ESP8266, and the board flashed with all code necessary using MicroPython,
