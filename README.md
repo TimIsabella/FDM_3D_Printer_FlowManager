@@ -1,6 +1,6 @@
 # FDM 3D Printer Flow Manager
 
-Possibly the biggest issue in FDM 3D printing is flow control, and the reasons for this is as follows:
+Possibly the biggest issue in FDM 3D printing is flow control, and the reasons for this are as follows:
 - Inconsistent filament diameter
 - Improperly calibrated flow rate
 - Extruder skipping
