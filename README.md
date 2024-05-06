@@ -55,6 +55,7 @@ that run at 5v, therefore the IC that can be used in this project is completely 
 - 2x 11mm X 7mm X 3mm ball bearings
 - 2x 8mm X 14mm X 4mm ball bearings
 - 1x HK0306 drawn cup needle bearing, 3mm bore, 6.5mm OD, 6mm width
+- 1x 5mm x 35mm dowel pin
 - 2x 0.5mm X 3mm X 10mm compression springs
 - 2x 4mm X 2mm round magnets
 - 2x A1302 Continuous-Time Ratiometric Linear Hall-Effect Sensors (5v)
