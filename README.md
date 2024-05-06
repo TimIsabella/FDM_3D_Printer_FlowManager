@@ -50,7 +50,7 @@ There are also many other boards in the ESP family with more functionality, more
 that run at 5v, therefore the IC that can be used in this project is completely interchangeable.
 
 ## Parts List
-- Printed model (see repo .STL files, or .MQO for Metasequoia), 0.4mm nozzle at a minimum, shell is best printed upright.
+- Printed model (see repo .STL files, or .MQO for Metasequoia), 0.4mm nozzle or smaller, shell is best printed upright.
 - Arduino Nano (5v)
 - 2x 11mm X 7mm X 3mm ball bearings
 - 2x 8mm X 14mm X 4mm ball bearings
