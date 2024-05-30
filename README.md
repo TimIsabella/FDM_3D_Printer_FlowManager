@@ -15,7 +15,7 @@ By measuring the filament diameter as it is fed, an exact flow rate can be calcu
 a consistent flow. Flow Manager measures this filament diameter by two points offset around
 the circumference of the filament (offset as a triangle), and averaging those points with a 
 precision of up to 6 digits beyond the decimal, which results in a measurement sensitivity 
-as low as 0.000001mm, and a filament diameter as small as 1mm.
+as low as 0.000001mm (1 nanometer), and a filament diameter as small as 1mm.
 
 This measurement is achieved by amplifying the minute movements by way of dual single levers set with
 high fulcrum points, and small magnets inlaid at their ends. These magnets are positioned over
